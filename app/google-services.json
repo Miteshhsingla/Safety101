@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027951520277",
+    "project_id": "practicum-6524a",
+    "storage_bucket": "practicum-6524a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027951520277:android:8aafd3d1fcd9c097633c1c",
+        "android_client_info": {
+          "package_name": "com.example.practicum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027951520277-8b7jndt0gs1si1992pd6p3tg26v528ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7HtLVqwgGR2KonHkfk8xmMugcq3A7bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027951520277-8b7jndt0gs1si1992pd6p3tg26v528ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
