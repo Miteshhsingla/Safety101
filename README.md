@@ -39,7 +39,3 @@ Contributions to **Safety101** are always welcome! If you have any suggestions o
 ## Acknowledgments
 
 This project was inspired by the need for personal safety applications that can help people feel safer in their daily lives.
-
----
-
-This formatted version should be more readable and organized.
