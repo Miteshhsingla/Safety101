@@ -1,7 +1,3 @@
-Sure! Here's a formatted version of your README file:
-
----
-
 # Safety101
 
 **Safety101** is an Android-based personal safety application that enables users to share their real-time location with emergency contacts of their choice and also displays the location of nearby police stations. The app was built using Kotlin.
